@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://i.imgur.com/IU6vxHM.jpeg"/></p>
+
 # SLAs
 Adding users 
 
