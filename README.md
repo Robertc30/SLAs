@@ -6,6 +6,7 @@ Adding users
 
 
 
+Its a work in progress bare with!
 
 <h2>Follow the journey on LinkedIn or Contact me directly</h2>
 
